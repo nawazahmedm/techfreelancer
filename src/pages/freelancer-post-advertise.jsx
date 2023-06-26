@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link, useNavigate } from 'react-router-dom'; 
 import Footer from './footer';
-import UserMenu from './usermenu';
+import UserMenu from '../components/menu/user-menu';
 
 export default function FreelancerPostAdvertise() {
     return (
